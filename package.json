@@ -2,6 +2,7 @@
   "name": "app_39913",
   "private": true,
   "dependencies": {
+    "@activeadmin/activeadmin": "^2.7.0",
     "@rails/actioncable": "^6.0.0",
     "@rails/actiontext": "^6.0.3-2",
     "@rails/activestorage": "^6.0.0",
